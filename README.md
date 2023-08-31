@@ -78,4 +78,8 @@ The step numbers are referenced in the code at the points where each task is com
     1. VPN client decides on internal communication host and port for the user
     2. User creates TCP connection with client host and client port
     3. Now data that user sends goes through VPN client, gets encrypted, gets sent to VPN server, gets decrypted and sent to target.
-10. Setup of secure communication channel is now complete 
+10. Setup of secure communication channel is now complete
+    ![Screenshot (28)](https://github.com/SuhasSuk123/Vitualprivaten/assets/93640776/5a900c37-ffe2-462f-b3a1-b3949c93e9be)
+![Screenshot (27)](https://github.com/SuhasSuk123/Vitualprivaten/assets/93640776/82d26275-2662-41bb-b93b-e0ed6bb34a2d)
+![Screenshot (26)](https://github.com/SuhasSuk123/Vitualprivaten/assets/93640776/2c9aa1ee-99a8-4e6d-b5ae-6e285af2e704)
+
